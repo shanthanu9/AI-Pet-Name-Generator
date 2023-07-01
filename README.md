@@ -10,4 +10,4 @@ animal, it will complain.
 
 ## Getting started
 
-Rename `.env.example` file to `.env` and enter the OPENAI API KEY in the file.
+Rename `.env.example` file to `.env` and enter your OPENAI API KEY in the file.
